@@ -1,0 +1,50 @@
+﻿@model mvcdemo.Models.SaleInvoiceLine
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>SaleInvoiceLine</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.SaleInvoiceLines.SaleLineId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SaleInvoiceLines.SaleLineId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SalesInvoiceHeaders.InvoiceNo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SalesInvoiceHeaders.InvoiceNo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Qty)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Qty)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Rate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Rate)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.SaleLineId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,51 @@
+﻿@model IEnumerable<mvcdemo.Models.SaleInvoiceLine>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2><u>SALEINVOICEHEADER</u></h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.SaleInvoiceLines.SaleLineId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SalesInvoiceHeaders.InvoiceNo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Qty)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Rate)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.SaleInvoiceLines.SaleLineId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SalesInvoiceHeaders.InvoiceNo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Qty)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Rate)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.SaleLineId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.SaleLineId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.SaleLineId })
+        </td>
+    </tr>
+}
+
+</table>

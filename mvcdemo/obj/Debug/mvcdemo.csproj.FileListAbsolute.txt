@@ -1,0 +1,246 @@
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\mvcdemo.dll.config
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\mvcdemo.dll
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\mvcdemo.pdb
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\roslyn\csc.exe
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\roslyn\csc.exe.config
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\roslyn\csc.rsp
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\roslyn\csi.exe
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\roslyn\csi.exe.config
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\roslyn\csi.rsp
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\roslyn\System.AppContext.dll
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\roslyn\System.Collections.Immutable.dll
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\roslyn\System.Console.dll
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\roslyn\System.IO.Compression.dll
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\roslyn\System.IO.FileSystem.dll
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\roslyn\System.IO.Pipes.dll
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\roslyn\System.Reflection.Metadata.dll
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\roslyn\System.Security.AccessControl.dll
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\roslyn\System.Security.Claims.dll
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\roslyn\System.ValueTuple.dll
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\roslyn\System.Xml.XPath.dll
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\roslyn\vbc.exe
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\roslyn\vbc.exe.config
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\roslyn\vbc.rsp
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\roslyn\VBCSCompiler.exe
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\roslyn\VBCSCompiler.exe.config
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\Antlr3.Runtime.dll
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\EntityFramework.dll
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\EntityFramework.SqlServer.dll
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\Microsoft.Web.Infrastructure.dll
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\Newtonsoft.Json.dll
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\System.Web.Helpers.dll
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\System.Web.Mvc.dll
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\System.Web.Optimization.dll
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\System.Web.Razor.dll
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\System.Web.WebPages.Deployment.dll
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\System.Web.WebPages.dll
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\System.Web.WebPages.Razor.dll
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\WebGrease.dll
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\EntityFramework.xml
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\EntityFramework.SqlServer.xml
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\System.Web.Helpers.xml
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\System.Web.Mvc.xml
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\System.Web.Optimization.xml
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\System.Web.Razor.xml
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\System.Web.WebPages.xml
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\System.Web.WebPages.Deployment.xml
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\System.Web.WebPages.Razor.xml
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\Newtonsoft.Json.xml
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\Antlr3.Runtime.pdb
+F:\Shruti Patel\mvcdemo\mvcdemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Shruti Patel\mvcdemo\mvcdemo\obj\Debug\mvcdemo.csprojAssemblyReference.cache
+F:\Shruti Patel\mvcdemo\mvcdemo\obj\Debug\mvcdemo.csproj.CopyComplete
+F:\Shruti Patel\mvcdemo\mvcdemo\obj\Debug\mvcdemo.dll
+F:\Shruti Patel\mvcdemo\mvcdemo\obj\Debug\mvcdemo.pdb
+F:\Shruti Patel\mvcdemo\mvcdemo\obj\Debug\mvcdemo.Migrations.CreateTable.resources
+F:\Shruti Patel\mvcdemo\mvcdemo\obj\Debug\mvcdemo.csproj.GenerateResource.cache
+C:\data\mvc\mvcdemo\mvcdemo\bin\mvcdemo.dll.config
+C:\data\mvc\mvcdemo\mvcdemo\bin\mvcdemo.dll
+C:\data\mvc\mvcdemo\mvcdemo\bin\mvcdemo.pdb
+C:\data\mvc\mvcdemo\mvcdemo\bin\roslyn\csc.exe
+C:\data\mvc\mvcdemo\mvcdemo\bin\roslyn\csc.exe.config
+C:\data\mvc\mvcdemo\mvcdemo\bin\roslyn\csc.rsp
+C:\data\mvc\mvcdemo\mvcdemo\bin\roslyn\csi.exe
+C:\data\mvc\mvcdemo\mvcdemo\bin\roslyn\csi.exe.config
+C:\data\mvc\mvcdemo\mvcdemo\bin\roslyn\csi.rsp
+C:\data\mvc\mvcdemo\mvcdemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\data\mvc\mvcdemo\mvcdemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\data\mvc\mvcdemo\mvcdemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\data\mvc\mvcdemo\mvcdemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\data\mvc\mvcdemo\mvcdemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\data\mvc\mvcdemo\mvcdemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\data\mvc\mvcdemo\mvcdemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\data\mvc\mvcdemo\mvcdemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\data\mvc\mvcdemo\mvcdemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\data\mvc\mvcdemo\mvcdemo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\data\mvc\mvcdemo\mvcdemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\data\mvc\mvcdemo\mvcdemo\bin\roslyn\System.AppContext.dll
+C:\data\mvc\mvcdemo\mvcdemo\bin\roslyn\System.Collections.Immutable.dll
+C:\data\mvc\mvcdemo\mvcdemo\bin\roslyn\System.Console.dll
+C:\data\mvc\mvcdemo\mvcdemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\data\mvc\mvcdemo\mvcdemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\data\mvc\mvcdemo\mvcdemo\bin\roslyn\System.IO.Compression.dll
+C:\data\mvc\mvcdemo\mvcdemo\bin\roslyn\System.IO.FileSystem.dll
+C:\data\mvc\mvcdemo\mvcdemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\data\mvc\mvcdemo\mvcdemo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\data\mvc\mvcdemo\mvcdemo\bin\roslyn\System.IO.Pipes.dll
+C:\data\mvc\mvcdemo\mvcdemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\data\mvc\mvcdemo\mvcdemo\bin\roslyn\System.Security.AccessControl.dll
+C:\data\mvc\mvcdemo\mvcdemo\bin\roslyn\System.Security.Claims.dll
+C:\data\mvc\mvcdemo\mvcdemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\data\mvc\mvcdemo\mvcdemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\data\mvc\mvcdemo\mvcdemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\data\mvc\mvcdemo\mvcdemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\data\mvc\mvcdemo\mvcdemo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\data\mvc\mvcdemo\mvcdemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\data\mvc\mvcdemo\mvcdemo\bin\roslyn\System.ValueTuple.dll
+C:\data\mvc\mvcdemo\mvcdemo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\data\mvc\mvcdemo\mvcdemo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\data\mvc\mvcdemo\mvcdemo\bin\roslyn\System.Xml.XPath.dll
+C:\data\mvc\mvcdemo\mvcdemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\data\mvc\mvcdemo\mvcdemo\bin\roslyn\vbc.exe
+C:\data\mvc\mvcdemo\mvcdemo\bin\roslyn\vbc.exe.config
+C:\data\mvc\mvcdemo\mvcdemo\bin\roslyn\vbc.rsp
+C:\data\mvc\mvcdemo\mvcdemo\bin\roslyn\VBCSCompiler.exe
+C:\data\mvc\mvcdemo\mvcdemo\bin\roslyn\VBCSCompiler.exe.config
+C:\data\mvc\mvcdemo\mvcdemo\bin\Antlr3.Runtime.dll
+C:\data\mvc\mvcdemo\mvcdemo\bin\EntityFramework.dll
+C:\data\mvc\mvcdemo\mvcdemo\bin\EntityFramework.SqlServer.dll
+C:\data\mvc\mvcdemo\mvcdemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\data\mvc\mvcdemo\mvcdemo\bin\Microsoft.Web.Infrastructure.dll
+C:\data\mvc\mvcdemo\mvcdemo\bin\Newtonsoft.Json.dll
+C:\data\mvc\mvcdemo\mvcdemo\bin\System.Web.Helpers.dll
+C:\data\mvc\mvcdemo\mvcdemo\bin\System.Web.Mvc.dll
+C:\data\mvc\mvcdemo\mvcdemo\bin\System.Web.Optimization.dll
+C:\data\mvc\mvcdemo\mvcdemo\bin\System.Web.Razor.dll
+C:\data\mvc\mvcdemo\mvcdemo\bin\System.Web.WebPages.Deployment.dll
+C:\data\mvc\mvcdemo\mvcdemo\bin\System.Web.WebPages.dll
+C:\data\mvc\mvcdemo\mvcdemo\bin\System.Web.WebPages.Razor.dll
+C:\data\mvc\mvcdemo\mvcdemo\bin\WebGrease.dll
+C:\data\mvc\mvcdemo\mvcdemo\bin\EntityFramework.xml
+C:\data\mvc\mvcdemo\mvcdemo\bin\EntityFramework.SqlServer.xml
+C:\data\mvc\mvcdemo\mvcdemo\bin\System.Web.Helpers.xml
+C:\data\mvc\mvcdemo\mvcdemo\bin\System.Web.Mvc.xml
+C:\data\mvc\mvcdemo\mvcdemo\bin\System.Web.Optimization.xml
+C:\data\mvc\mvcdemo\mvcdemo\bin\System.Web.Razor.xml
+C:\data\mvc\mvcdemo\mvcdemo\bin\System.Web.WebPages.xml
+C:\data\mvc\mvcdemo\mvcdemo\bin\System.Web.WebPages.Deployment.xml
+C:\data\mvc\mvcdemo\mvcdemo\bin\System.Web.WebPages.Razor.xml
+C:\data\mvc\mvcdemo\mvcdemo\bin\Newtonsoft.Json.xml
+C:\data\mvc\mvcdemo\mvcdemo\bin\Antlr3.Runtime.pdb
+C:\data\mvc\mvcdemo\mvcdemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\data\mvc\mvcdemo\mvcdemo\obj\Debug\mvcdemo.Migrations.CreateTable.resources
+C:\data\mvc\mvcdemo\mvcdemo\obj\Debug\mvcdemo.csproj.GenerateResource.cache
+C:\data\mvc\mvcdemo\mvcdemo\obj\Debug\mvcdemo.csproj.CopyComplete
+C:\data\mvc\mvcdemo\mvcdemo\obj\Debug\mvcdemo.dll
+C:\data\mvc\mvcdemo\mvcdemo\obj\Debug\mvcdemo.pdb
+C:\data\mvc\mvcdemo\mvcdemo\obj\Debug\mvcdemo.csprojAssemblyReference.cache
+C:\data\mvc\mvcdemo\mvcdemo\obj\Debug\mvcdemo.Migrations.Migation1.resources
+F:\Shruti Patel\mvcdemo\mvcdemo\obj\Debug\mvcdemo.Migrations.Migation1.resources
+C:\data\mvc\Task-master\mvcdemo\bin\mvcdemo.dll.config
+C:\data\mvc\Task-master\mvcdemo\bin\mvcdemo.dll
+C:\data\mvc\Task-master\mvcdemo\bin\mvcdemo.pdb
+C:\data\mvc\Task-master\mvcdemo\bin\roslyn\csc.exe
+C:\data\mvc\Task-master\mvcdemo\bin\roslyn\csc.exe.config
+C:\data\mvc\Task-master\mvcdemo\bin\roslyn\csc.rsp
+C:\data\mvc\Task-master\mvcdemo\bin\roslyn\csi.exe
+C:\data\mvc\Task-master\mvcdemo\bin\roslyn\csi.exe.config
+C:\data\mvc\Task-master\mvcdemo\bin\roslyn\csi.rsp
+C:\data\mvc\Task-master\mvcdemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\data\mvc\Task-master\mvcdemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\data\mvc\Task-master\mvcdemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\data\mvc\Task-master\mvcdemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\data\mvc\Task-master\mvcdemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\data\mvc\Task-master\mvcdemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\data\mvc\Task-master\mvcdemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\data\mvc\Task-master\mvcdemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\data\mvc\Task-master\mvcdemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\data\mvc\Task-master\mvcdemo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\data\mvc\Task-master\mvcdemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\data\mvc\Task-master\mvcdemo\bin\roslyn\System.AppContext.dll
+C:\data\mvc\Task-master\mvcdemo\bin\roslyn\System.Collections.Immutable.dll
+C:\data\mvc\Task-master\mvcdemo\bin\roslyn\System.Console.dll
+C:\data\mvc\Task-master\mvcdemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\data\mvc\Task-master\mvcdemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\data\mvc\Task-master\mvcdemo\bin\roslyn\System.IO.Compression.dll
+C:\data\mvc\Task-master\mvcdemo\bin\roslyn\System.IO.FileSystem.dll
+C:\data\mvc\Task-master\mvcdemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\data\mvc\Task-master\mvcdemo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\data\mvc\Task-master\mvcdemo\bin\roslyn\System.IO.Pipes.dll
+C:\data\mvc\Task-master\mvcdemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\data\mvc\Task-master\mvcdemo\bin\roslyn\System.Security.AccessControl.dll
+C:\data\mvc\Task-master\mvcdemo\bin\roslyn\System.Security.Claims.dll
+C:\data\mvc\Task-master\mvcdemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\data\mvc\Task-master\mvcdemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\data\mvc\Task-master\mvcdemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\data\mvc\Task-master\mvcdemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\data\mvc\Task-master\mvcdemo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\data\mvc\Task-master\mvcdemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\data\mvc\Task-master\mvcdemo\bin\roslyn\System.ValueTuple.dll
+C:\data\mvc\Task-master\mvcdemo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\data\mvc\Task-master\mvcdemo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\data\mvc\Task-master\mvcdemo\bin\roslyn\System.Xml.XPath.dll
+C:\data\mvc\Task-master\mvcdemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\data\mvc\Task-master\mvcdemo\bin\roslyn\vbc.exe
+C:\data\mvc\Task-master\mvcdemo\bin\roslyn\vbc.exe.config
+C:\data\mvc\Task-master\mvcdemo\bin\roslyn\vbc.rsp
+C:\data\mvc\Task-master\mvcdemo\bin\roslyn\VBCSCompiler.exe
+C:\data\mvc\Task-master\mvcdemo\bin\roslyn\VBCSCompiler.exe.config
+C:\data\mvc\Task-master\mvcdemo\bin\Antlr3.Runtime.dll
+C:\data\mvc\Task-master\mvcdemo\bin\EntityFramework.dll
+C:\data\mvc\Task-master\mvcdemo\bin\EntityFramework.SqlServer.dll
+C:\data\mvc\Task-master\mvcdemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\data\mvc\Task-master\mvcdemo\bin\Microsoft.Web.Infrastructure.dll
+C:\data\mvc\Task-master\mvcdemo\bin\Newtonsoft.Json.dll
+C:\data\mvc\Task-master\mvcdemo\bin\System.Web.Helpers.dll
+C:\data\mvc\Task-master\mvcdemo\bin\System.Web.Mvc.dll
+C:\data\mvc\Task-master\mvcdemo\bin\System.Web.Optimization.dll
+C:\data\mvc\Task-master\mvcdemo\bin\System.Web.Razor.dll
+C:\data\mvc\Task-master\mvcdemo\bin\System.Web.WebPages.Deployment.dll
+C:\data\mvc\Task-master\mvcdemo\bin\System.Web.WebPages.dll
+C:\data\mvc\Task-master\mvcdemo\bin\System.Web.WebPages.Razor.dll
+C:\data\mvc\Task-master\mvcdemo\bin\WebGrease.dll
+C:\data\mvc\Task-master\mvcdemo\bin\EntityFramework.xml
+C:\data\mvc\Task-master\mvcdemo\bin\EntityFramework.SqlServer.xml
+C:\data\mvc\Task-master\mvcdemo\bin\System.Web.Helpers.xml
+C:\data\mvc\Task-master\mvcdemo\bin\System.Web.Mvc.xml
+C:\data\mvc\Task-master\mvcdemo\bin\System.Web.Optimization.xml
+C:\data\mvc\Task-master\mvcdemo\bin\System.Web.Razor.xml
+C:\data\mvc\Task-master\mvcdemo\bin\System.Web.WebPages.xml
+C:\data\mvc\Task-master\mvcdemo\bin\System.Web.WebPages.Deployment.xml
+C:\data\mvc\Task-master\mvcdemo\bin\System.Web.WebPages.Razor.xml
+C:\data\mvc\Task-master\mvcdemo\bin\Newtonsoft.Json.xml
+C:\data\mvc\Task-master\mvcdemo\bin\Antlr3.Runtime.pdb
+C:\data\mvc\Task-master\mvcdemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\data\mvc\Task-master\mvcdemo\obj\Debug\mvcdemo.csprojAssemblyReference.cache
+C:\data\mvc\Task-master\mvcdemo\obj\Debug\mvcdemo.Migrations.CreateTable.resources
+C:\data\mvc\Task-master\mvcdemo\obj\Debug\mvcdemo.Migrations.Migation1.resources
+C:\data\mvc\Task-master\mvcdemo\obj\Debug\mvcdemo.csproj.GenerateResource.cache
+C:\data\mvc\Task-master\mvcdemo\obj\Debug\mvcdemo.csproj.CopyComplete
+C:\data\mvc\Task-master\mvcdemo\obj\Debug\mvcdemo.dll
+C:\data\mvc\Task-master\mvcdemo\obj\Debug\mvcdemo.pdb

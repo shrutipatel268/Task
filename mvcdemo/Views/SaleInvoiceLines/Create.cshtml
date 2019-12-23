@@ -1,0 +1,71 @@
+﻿@model mvcdemo.Models.SaleInvoiceLine
+
+@{
+    ViewBag.Title = "Create";
+}
+<h2><u>INVOICE FORM</u></h2>
+<br />
+<div style="margin-left :100px">
+    @Html.Label("Invoiceno")
+    @Html.TextBox("invoice")
+    &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+    @Html.Label("Date")
+    @Html.TextBox("date")
+</div>
+</br>
+<div style="margin-left :100px">
+    @Html.Label("Customer")
+    @* @Html.DropDownList("customername", "select customer")*@
+    <select name="CustomerName">
+        <option label="select customer"></option>
+        @foreach (var a in (List<mvcdemo.Models.Customer>)ViewBag.Customers)
+        {
+
+            <option value="@a.CustomerName">@a.CustomerName</option>
+        }
+    </select>
+</div>
+<br />
+<table width="100%">
+    <tr>
+        <td>Item Name</td>
+        <td>Qty</td>
+        <td>Rate</td>
+        <td>Unit</td>
+        <td>Amount</td>
+    </tr>
+    <tr>
+        <td> 
+            <select name="ItemName">
+                @foreach (var b in (List<mvcdemo.Models.Item>)ViewBag.Items)
+                {
+                    <option value="@b.ItemName">@b.ItemName</option>
+                }
+            </select>
+        </td>
+        <td>
+            <input type="text" id="quantity" />
+        </td>
+        <td>
+            <input type="text" id="rate" />
+        </td>
+        <td>
+            <input type="text" id="unit" />
+        </td>
+        <td>
+            <input type="text" id="amount" />
+        </td>
+        <td>
+            <input type="button" id="add" value="add" />
+        </td>
+    </tr>
+</table>
+<div style="padding:10px 0px; text-align:right">
+    <input id="submit" type="button" value="Save" style="padding:10px 20px" />
+</div>
+<div>
+    @Html.ActionLink("Back to List", "Create")
+</div>
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
